@@ -1,3 +1,3 @@
 # Student-course-code-1
 Assignment 1
-My first
+My first program in c#
